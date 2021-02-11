@@ -1,0 +1,2 @@
+# Coordinates
+"MouseEvent.client" coordinates
